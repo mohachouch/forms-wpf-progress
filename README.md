@@ -31,5 +31,12 @@ Curently, the WPF Backend allows to develop applications, but it is still in dev
 ## How can I try?
 
 This is really simple. You can test the latest Xamarin Forms WPF on Nighlty build. <br>
-Nuget repository : https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci
+
+This project requires two libraries:
+- Xamarin.Forms.Platform.WPF: Xamarin Forms WPF Backend
+- WpfLightToolkit: It's a collection of helper functions and custom controls for Xamarin.Forms WPF Backend.
+
+To test this project you must add this two Nuget sources in Visual Studio:
+- Xamarin.Forms WPF CI: https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci
+- WpfLightToolkit CI: https://ci.appveyor.com/nuget/wpflighttoolkit-ci
 
