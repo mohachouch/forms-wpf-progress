@@ -49,7 +49,7 @@ To test this project you must add this two Nuget sources in Visual Studio:
 Quality is top of the list of priorities. This means stability and performance first and foremost. Constant testing on a huge volume of samples to achieve this goal.
 
 <p align="center">
-<img src="images/layout_performance.png" Width="500"/>
+<img src="images/layout_performance.png" Width="600"/>
 </p>
 
 ### Fast Renderer
