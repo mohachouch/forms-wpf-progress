@@ -27,3 +27,9 @@ Read more about the platform at [https://www.xamarin.com/forms](https://www.xama
 ## Status
 
 Curently, the WPF Backend allows to develop applications, but it is still in development. If you want to know in detail the **status**, navigate to the [Status section](Status.md).
+
+## How can I try?
+
+This is really simple. You can test the latest Xamarin Forms WPF on Nighlty build.
+Nuget repository : https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci
+
