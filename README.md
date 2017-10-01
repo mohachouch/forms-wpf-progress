@@ -48,3 +48,12 @@ Quality is top of the list of priorities. This means stability and performance f
 <img src="images/layout_performance.png" Width="500"/>
 </p>
 
+### Fast Renderer
+
+All renderer are fast ! The controls are not embedded into a panel.
+
+See the difference between WPF and UWP.
+
+
+
+
