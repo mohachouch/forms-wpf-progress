@@ -30,7 +30,7 @@ Curently, the WPF Backend allows to develop applications, but it is still in dev
 
 ## How can I try?
 
-This is really simple. You can test the latest Xamarin Forms WPF on Nighlty build. <br>
+This is really simple. You can test the latest Xamarin Forms WPF on Nightly build. <br>
 
 This project requires two libraries:
 - Xamarin.Forms.Platform.WPF: Xamarin Forms WPF Backend
