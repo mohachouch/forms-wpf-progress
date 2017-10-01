@@ -18,15 +18,15 @@ Xamarin.Forms WPF Backend Samples |
 [Hanselman.Forms](https://github.com/mohachouch/Hanselman.Forms/tree/wpf) |
 [WeatherApp](https://github.com/mohachouch/MyWeather.Forms/tree/wpf) |
 
-<p align="center">
-<img src="images/movies_screen.png" Width="500"/>
-</p>
-
 ## Xamarin.Forms
 
 Xamarin.Forms provides a way to quickly build native apps for iOS, Android, Windows, macOS and Linux, completely in C#.
 
 Read more about the platform at [https://www.xamarin.com/forms](https://www.xamarin.com/forms).
+
+<p align="center">
+<img src="images/movies_screen.png" Width="500"/>
+</p>
 
 ## Status
 
