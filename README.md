@@ -40,3 +40,11 @@ To test this project you must add this two Nuget sources in Visual Studio:
 - Xamarin.Forms WPF CI: https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci
 - WpfLightToolkit CI: https://ci.appveyor.com/nuget/wpflighttoolkit-ci
 
+## Performance
+
+Quality is top of the list of priorities. This means stability and performance first and foremost. Constant testing on a huge volume of samples to achieve this goal.
+
+<p align="center">
+<img src="images/layout_performance.png" Width="500"/>
+</p>
+
