@@ -52,8 +52,18 @@ Quality is top of the list of priorities. This means stability and performance f
 
 All renderer are fast ! The controls are not embedded into a panel.
 
-See the difference between WPF and UWP.
+Bellow the difference between WPF and UWP.
 
+<table style="width:100%">
+  <tr>
+    <th>UWP</th>
+    <th>WPF</th>
+  </tr>
+  <tr>
+    <td><img src="images/uwp_weather_tree.png" /></td>
+    <td><img src="images/wpf_weather_tree.png" /></td>
+  </tr>
+</table>
 
 
 
