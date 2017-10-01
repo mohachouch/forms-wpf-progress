@@ -25,7 +25,7 @@ Xamarin.Forms provides a way to quickly build native apps for iOS, Android, Wind
 Read more about the platform at [https://www.xamarin.com/forms](https://www.xamarin.com/forms).
 
 <p align="center">
-<img src="images/movies_screen.png" Width="500"/>
+<img src="images/movies_screen.png" Width="600"/>
 </p>
 
 ## Status
