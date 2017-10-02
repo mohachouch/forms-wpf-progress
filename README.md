@@ -69,6 +69,10 @@ Bellow the difference between WPF and UWP.
   </tr>
 </table>
 
+## Feedback
+
+Please use **[GitHub issues](https://github.com/mohachouch/forms-wpf-progress/issues)** for questions, comments, feature requests, or if would like to vote on what others are recommending.
+
 ## How to Contribute
 
 Are you interesting?. You can contribute!.
