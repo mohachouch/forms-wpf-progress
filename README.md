@@ -71,6 +71,10 @@ Bellow the difference between WPF and UWP.
   </tr>
 </table>
 
+## Gallery
+
+Looks good?. In the **[gallery](Gallery.md)** section you have a huge variety of screenshots.
+
 ## Feedback
 
 Please use **[GitHub issues](https://github.com/mohachouch/forms-wpf-progress/issues)** for questions, comments, feature requests, or if would like to vote on what others are recommending.
