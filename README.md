@@ -15,6 +15,7 @@ Xamarin.Forms WPF Backend |
 Xamarin.Forms WPF Backend Samples | 
 ------ | 
 [Movies](https://github.com/mohachouch/xamarin-forms-gtk-movies-sample/tree/wpf) |
+[Weather](https://github.com/jsuarezruiz/xamarin-forms-wpf-weather-sample) |
 [Hanselman.Forms](https://github.com/mohachouch/Hanselman.Forms/tree/wpf) |
 [WeatherApp](https://github.com/mohachouch/MyWeather.Forms/tree/wpf) |
 
@@ -41,8 +42,9 @@ This project requires two libraries:
 - WpfLightToolkit: It's a collection of helper functions and custom controls for Xamarin.Forms WPF Backend.
 
 To test this project you must add this two Nuget sources in Visual Studio:
-- Xamarin.Forms WPF CI: https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci
-- WpfLightToolkit CI: https://ci.appveyor.com/nuget/wpflighttoolkit-ci
+
+- Xamarin.Forms WPF CI: [https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci](https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci)
+- WpfLightToolkit CI: [https://ci.appveyor.com/nuget/wpflighttoolkit-ci](https://ci.appveyor.com/nuget/wpflighttoolkit-ci)
 
 ## Performance
 
@@ -72,6 +74,10 @@ Bellow the difference between WPF and UWP.
 ## Feedback
 
 Please use **[GitHub issues](https://github.com/mohachouch/forms-wpf-progress/issues)** for questions, comments, feature requests, or if would like to vote on what others are recommending.
+
+## Faq
+
+Still with doubts or questions?. Do not worry, we have prepared a complete **[Faq](Faq.md)** answering the most common doubts.
 
 ## How to Contribute
 
