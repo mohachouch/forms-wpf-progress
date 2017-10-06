@@ -53,3 +53,32 @@ Image   | Done
 Clicked   | Done  
 Pressed   | Done  
 Released   | Done  
+
+### DatePicker
+
+The visual representation of a [DatePicker](https://developer.xamarin.com/api/type/Xamarin.Forms.DatePicker/) is very similar to the one of Entry, except that a special control for picking a date appears in place of a keyboard.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Format   | -  
+Date   | Done  
+MinimumDate   | Done  
+MaximumDate   | Done  
+TextColor   | Done  
+DateSelected   | Done  
+
+### Editor
+
+The [Editor](https://developer.xamarin.com/guides/xamarin-forms/user-interface/text/editor/) control is used to accept multi-line input.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+IsEnabled   | Done  
+Text   | Done  
+FontFamily   | Done  
+FontSize   | Done  
+FontAttributes   | Done  
+TextColor   | Done  
+TextChanged   | Done  
