@@ -10,6 +10,16 @@
 
 ## Pages
 
+### ContentPage
+
+A [ContentPage](https://developer.xamarin.com/api/type/Xamarin.Forms.ContentPage/) is a Page displaying a single View, often a container like a StackLayout or ScrollView.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Appearing   | Done  
+Disappearing   | Done  
+
 ## Views
 
 ### ActivityIndicator
