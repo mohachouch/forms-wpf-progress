@@ -1,5 +1,13 @@
 # Status
 
+### To-Do
+* Accessibility
+* TimePicker
+* List (Lot of work)
+* Serializer
+* NativeViewWrapper
+* NavigationMenu
+
 ### ActivityIndicator
 
 The [ActivityIndicator](https://developer.xamarin.com/api/type/Xamarin.Forms.ActivityIndicator/) control gives a visual clue to the user that something is happening, without information about its progress.
