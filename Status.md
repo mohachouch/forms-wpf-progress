@@ -1,12 +1,16 @@
 # Status
 
-### To-Do
+## To-Do
 * Accessibility
 * TimePicker
 * List (Lot of work)
 * Serializer
 * NativeViewWrapper
 * NavigationMenu
+
+## Pages
+
+## Views
 
 ### ActivityIndicator
 
