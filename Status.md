@@ -20,6 +20,71 @@ BackgroundColor   | Done
 Appearing   | Done  
 Disappearing   | Done  
 
+### MasterDetailPage
+
+A [Page](https://developer.xamarin.com/api/type/Xamarin.Forms.MasterDetailPage/) that manages two panes of information: A master page that presents data at a high level, and a detail page that displays low-level details about information in the master.
+
+Property | Status
+------ | ------
+Detail   | Done  
+IsGestureEnabled   | Pending  
+IsPresented   | Done  
+Master   | Done  
+MasterBehavior   | Pending  
+ShouldShowToolBarButton   | Pending  
+IsPresentedChanged   | Done  
+
+### NavigationPage
+
+A [Page](https://developer.xamarin.com/api/type/Xamarin.Forms.NavigationPage/) that manages the navigation and user-experience of a stack of other pages.
+
+Property | Status
+------ | ------
+Animate   | Done  
+Add   | Done  
+Remove   | Done  
+
+### TabbedPage
+
+[Displays](https://developer.xamarin.com/api/type/Xamarin.Forms.TabbedPage/) an array of tabs across the top of the screen, each of which loads content onto the screen.
+
+Property | Status
+------ | ------
+BarBackgroundColor   | Done  
+BarTextColor   | Done  
+ItemsSource   | Done  
+ItemTemplate   | Done  
+SelectedItem   | Done  
+GetIndex   | Done  
+GetPageByIndex   | Done  
+SetIndex   | Done  
+Appearing   | Done  
+Disappearing   | Done  
+CurrentPageChanged   | Done  
+PagesChanged   | Done 
+
+### CarouselPage
+
+The Xamarin.Forms [CarouselPage](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/carousel-page/) is a page that users can swipe from side to side to navigate through pages of content, like a gallery. 
+
+Property | Status
+------ | ------
+ItemsSource   | Done  
+ItemTemplate   | Done  
+CurrentPage   | Done  
+Children   | Done  
+BackgroundImage   | Done  
+Icon   | Pending  
+IsBusy   | Done  
+Padding   | Done  
+Tittle   | Done  
+ToolbarItems   | Done  
+CurrentPageChanged   | Done  
+PagesChanged   | Done  
+LayoutChanged   | Done  
+Appearing   | Done  
+Disappearing   | Done  
+
 ## Views
 
 ### ActivityIndicator
@@ -28,7 +93,7 @@ The [ActivityIndicator](https://developer.xamarin.com/api/type/Xamarin.Forms.Act
 
 Property | Status
 ------ | ------
-BackgroundColor   | -  
+BackgroundColor   | Pending  
 IsRunning   | Done  
 Color   | Done  
 
@@ -70,7 +135,7 @@ FontFamily   | Done
 FontAttributes   | Done  
 BorderWidth   | Done  
 BorderColor   | Done  
-BorderRadius   | -  
+BorderRadius   | Pending  
 Image   | Done  
 Clicked   | Done  
 Pressed   | Done  
@@ -83,7 +148,7 @@ The visual representation of a [DatePicker](https://developer.xamarin.com/api/ty
 Property | Status
 ------ | ------
 BackgroundColor   | Done  
-Format   | -  
+Format   | Pending 
 Date   | Done  
 MinimumDate   | Done  
 MaximumDate   | Done  
