@@ -169,3 +169,24 @@ FontSize   | Done
 FontAttributes   | Done  
 TextColor   | Done  
 TextChanged   | Done  
+
+### Entry
+
+[Entry](https://developer.xamarin.com/api/type/Xamarin.Forms.Entry/) is a single line text entry. It is best used for collecting small discrete pieces of information, like usernames and passwords.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+IsEnabled   | Done  
+Placeholder   | Pending  
+PlaceholderColor   | Pending  
+Text   | Done  
+TextColor   | Done  
+FontFamily   | Done  
+FontSize   | Done  
+FontAttributes   | Done  
+TextColor   | Done  
+TextChanged   | Done  
+Completed   | Done  
+
+
