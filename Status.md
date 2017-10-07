@@ -199,5 +199,22 @@ BackgroundColor   | Done
 outlineColor   | Done  
 HasShadow   | Done  
 
+### Label
 
+A [Label](https://developer.xamarin.com/api/type/Xamarin.Forms.Label/) is used to display single-line text elements as well as multi-line blocks of text.
 
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+IsEnabled   | Done  
+FormattedText   | Done
+HorizontalTextAlignment   | Done  
+LineBreakMode   | Done  
+Text   | Done  
+TextColor   | Done  
+VerticalTextAlignment   | Done  
+FontAttributes   | Done  
+FontFamily   | Done  
+FontSize   | Done  
+XAlign   | Done  
+YAlign   | Done 
