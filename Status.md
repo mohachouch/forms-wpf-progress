@@ -251,3 +251,19 @@ BackgroundColor   | Done
 Progress   | Done  
 ProgressTo   | Done  
 
+### ScrollView
+
+An [element](https://developer.xamarin.com/api/type/Xamarin.Forms.ScrollView/) capable of scrolling if its Content requires.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Orientation   | Done  
+ScrollX   | Done  
+ScrollY   | Done  
+Content   | Done  
+ContentSize   | Done  
+ScrollToAsync   | Done 
+
+
+Scrolled   | Done  
