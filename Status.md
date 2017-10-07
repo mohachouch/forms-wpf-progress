@@ -189,4 +189,15 @@ TextColor   | Done
 TextChanged   | Done  
 Completed   | Done  
 
+### Frame
+
+[Frame](https://developer.xamarin.com/api/type/Xamarin.Forms.Frame/) is an element containing a single child, with some framing options.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+outlineColor   | Done  
+HasShadow   | Done  
+
+
 
