@@ -226,3 +226,28 @@ A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.OpenGLView/) that 
 Property | Status
 ------ | ------
 HasRenderLoop   | Done  
+
+### Picker
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Picker/) control for picking an element in a list.
+
+Property | Status
+------ | ------
+Title   | Pending  
+SelectedIndex   | Done  
+ItemsSource   | Done  
+SelectedItem   | Done  
+Items   | Done  
+itemDisplayBinding   | Done  
+SelectedIndexChanged   | Done  
+
+### Progress
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.ProgressBar/) control that displays progress.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Progress   | Done  
+ProgressTo   | Done  
+
