@@ -218,3 +218,11 @@ FontFamily   | Done
 FontSize   | Done  
 XAlign   | Done  
 YAlign   | Done 
+
+### OpenGLView
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.OpenGLView/) that displays OpenGL content.
+
+Property | Status
+------ | ------
+HasRenderLoop   | Done  
