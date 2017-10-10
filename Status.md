@@ -299,3 +299,25 @@ Maximum   | Done
 Value   | Done  
 ValueChanged   | Done  
 
+### Stepper
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Stepper/) control that inputs a discrete value, constrained to a range.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Minimum   | Done  
+Maximum   | Done  
+Value   | Done  
+Increment   | Done  
+ValueChanged   | Done  
+
+### Switch
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Switch/) control that provides a toggled value.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+IsToggled   | Done  
+Toggled   | Done  
