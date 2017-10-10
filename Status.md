@@ -321,3 +321,14 @@ Property | Status
 BackgroundColor   | Done  
 IsToggled   | Done  
 Toggled   | Done  
+
+### TimePicker
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.TimePicker/) control that provides time picking.
+
+Property | Status
+------ | ------
+BackgroundColor   | Pending  
+Format   | Pending  
+TextColor   | Pending  
+Time   | Pending  
