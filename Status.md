@@ -286,3 +286,16 @@ PlaceholderColor   | Pending
 FontFamily   | Done  
 SearchButtonPressed   | Done  
 TextChanged   | Done  
+
+### Slider
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Slider/) control that inputs a linear value.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+Minimum   | Done  
+Maximum   | Done  
+Value   | Done  
+ValueChanged   | Done  
+
