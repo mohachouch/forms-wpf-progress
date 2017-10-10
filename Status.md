@@ -264,6 +264,25 @@ ScrollY   | Done
 Content   | Done  
 ContentSize   | Done  
 ScrollToAsync   | Done 
-
-
 Scrolled   | Done  
+
+### SearchBar
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.SearchBar/) control that provides a search box.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+SearchCommand   | Done  
+SearchCommandParameter   | Done  
+CancelButtonColor   | Pending  
+Placeholder   | Pending  
+FontFamily   | Done  
+FontSize   | Done  
+FontAtttributes   | Done  
+HorizontalTextAlignment   | Done  
+TextColor   | Done  
+PlaceholderColor   | Pending  
+FontFamily   | Done  
+SearchButtonPressed   | Done  
+TextChanged   | Done  
