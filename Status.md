@@ -332,3 +332,31 @@ BackgroundColor   | Pending
 Format   | Pending  
 TextColor   | Pending  
 Time   | Pending  
+
+### TableView
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.TableView/) that holds rows of Cell elements.
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+HasUnevenRows   | Done  
+TableIntent   | Done  
+RowHeight   | Done  
+Root   | Done  
+ContextActions   | Done  
+
+### WebView
+
+A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.WebView/) that presents HTML content.
+
+Property | Status
+------ | ------
+CanGoBack   | Done  
+CamGoForward   | Done  
+Source   | Done  
+Eval   | Done  
+GoBack   | Done  
+GoForward   | Done  
+Navigated   | Done  
+Navigating   | Done  
