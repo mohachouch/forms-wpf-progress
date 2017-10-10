@@ -360,3 +360,20 @@ GoBack   | Done
 GoForward   | Done  
 Navigated   | Done  
 Navigating   | Done  
+
+### VisualElement
+
+Property | Status
+------ | ------
+BackgroundColor   | Done  
+AnchorX   | Done  
+AnchorY   | Done  
+IsEnabled   | Done  
+IsFocused   | Done  
+IsVisible   | Done
+Opacity   | Done  
+RotationX   | Pending  
+RotationY   | Pending  
+Scale   | Done  
+TranslationX   | Done  
+TranslationY   | Done
