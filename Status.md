@@ -4,7 +4,6 @@
 * Accessibility
 * TimePicker
 * List (Lot of work)
-* Serializer
 * NativeViewWrapper
 * NavigationMenu
 
