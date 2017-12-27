@@ -18,6 +18,7 @@ Xamarin.Forms WPF Backend Samples |
 [Weather](https://github.com/jsuarezruiz/xamarin-forms-wpf-weather-sample) |
 [Hanselman.Forms](https://github.com/mohachouch/Hanselman.Forms/tree/wpf) |
 [WeatherApp](https://github.com/mohachouch/MyWeather.Forms/tree/wpf) |
+[Forms Embedding WPF](https://github.com/jsuarezruiz/forms-embedding-wpf) |
 
 ## Xamarin.Forms
 
