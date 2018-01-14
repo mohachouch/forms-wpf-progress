@@ -2,7 +2,6 @@
 
 ## To-Do
 * Accessibility
-* TimePicker
 * List (Lot of work)
 * NativeViewWrapper
 * NavigationMenu
