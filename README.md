@@ -44,8 +44,10 @@ This project requires two libraries:
 
 To test this project you must add this two Nuget sources in Visual Studio:
 
-- Xamarin.Forms WPF CI: [https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci](https://ci.appveyor.com/nuget/xamarin-forms-wpf-ci)
+- Xamarin.Forms WPF CI: Xamarin Forms Nightly Build
 - WpfLightToolkit CI: [https://ci.appveyor.com/nuget/wpflighttoolkit-ci](https://ci.appveyor.com/nuget/wpflighttoolkit-ci)
+
+Follow this tutorial : https://mohachouch.github.io/Xamarin-Forms-WPF-QuickStart/
 
 ## Performance
 
