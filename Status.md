@@ -176,8 +176,8 @@ Property | Status
 ------ | ------
 BackgroundColor   | Done  
 IsEnabled   | Done  
-Placeholder   | Pending  
-PlaceholderColor   | Pending  
+Placeholder   | Done  
+PlaceholderColor   | Done  
 Text   | Done  
 TextColor   | Done  
 FontFamily   | Done  
@@ -248,6 +248,7 @@ Property | Status
 BackgroundColor   | Done  
 Progress   | Done  
 ProgressTo   | Done  
+ProgressColor | Done 
 
 ### ScrollView
 
@@ -326,10 +327,10 @@ A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.TimePicker/) contr
 
 Property | Status
 ------ | ------
-BackgroundColor   | Pending  
-Format   | Pending  
-TextColor   | Pending  
-Time   | Pending  
+BackgroundColor   | Done  
+Format   | Done  
+TextColor   | Done  
+Time   | Done  
 
 ### TableView
 
