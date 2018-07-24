@@ -275,13 +275,13 @@ BackgroundColor   | Done
 SearchCommand   | Done  
 SearchCommandParameter   | Done  
 CancelButtonColor   | Pending  
-Placeholder   | Pending  
+Placeholder   | Done  
 FontFamily   | Done  
 FontSize   | Done  
 FontAtttributes   | Done  
 HorizontalTextAlignment   | Done  
 TextColor   | Done  
-PlaceholderColor   | Pending  
+PlaceholderColor   | Done  
 FontFamily   | Done  
 SearchButtonPressed   | Done  
 TextChanged   | Done  
